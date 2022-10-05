@@ -1,7 +1,16 @@
 # Microsoft Ignite 2022 - After Party resources
 
+
+## Host resources
+
+
+
 * Link to list of After Party events
 * Links to videos
+
+
+
+
 
 
 ## Contributing
