@@ -1,12 +1,19 @@
 # Microsoft Ignite 2022 - After Party resources
 
+![Microsoft Ignite 2022 banner](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/blob/main/Assets/Microsoft%20Ignite%202022/Ignite_banner.png)
+
+
 
 ## Host resources
 
+* Digital Assets
+  * [Logos](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Logos)
+  * [Wallpaper](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Wallpaper)
+  * [Microsoft Teams backgrounds](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Teams%20Background)
 
+* [Social post templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Social%20Posts%20Templates)
 
-* Link to list of After Party events
-* Links to videos
+* Link to videos -> Coming Soon
 
 
 
