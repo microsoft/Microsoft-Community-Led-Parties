@@ -1,6 +1,6 @@
 # Microsoft Ignite 2022 - After Party resources
 
-![Microsoft Ignite 2022 banner](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/blob/main/Assets/Microsoft%20Ignite%202022/Ignite_banner.png)
+![Microsoft Ignite 2022 banner](/Assets/Microsoft%20Ignite%202022/Ignite_banner.png)
 
 
 
