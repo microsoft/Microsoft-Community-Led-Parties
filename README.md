@@ -15,15 +15,17 @@
 
 * [PowerPoint templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Powerpoint%20Templates)
 
-## Videos
+* [Promotional video](https://youtu.be/ZOStH9PQkR4)
 
-* [Microosft Ignite 2022 session videos](https://learn.microsoft.com/events/ignite-2022/)
+## Session recordings
+
+* [Microosft Ignite 2022 session recordings](https://learn.microsoft.com/events/ignite-2022/)
 
 
 ---
 
 
-## Contributing
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -37,7 +39,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+### Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
