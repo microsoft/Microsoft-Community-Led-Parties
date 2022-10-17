@@ -15,12 +15,21 @@
 
 * [PowerPoint templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Powerpoint%20Templates)
 
-* [Promotional video](https://youtu.be/ZOStH9PQkR4)
+* [Promotional video (YouTube)](https://youtu.be/ZOStH9PQkR4)
+
+<br/>
 
 ## Session recordings
 
-* [Microosft Ignite 2022 session recordings](https://learn.microsoft.com/events/ignite-2022/)
+[Microsoft Ignite 2022 session recordings](https://learn.microsoft.com/events/ignite-2022/)
 
+<br/>
+
+## Book of News
+[Microsoft Ignite 2022 Book of News](https://news.microsoft.com/ignite-2022-book-of-news/)  
+
+<br/>
+<br/>
 
 ---
 
