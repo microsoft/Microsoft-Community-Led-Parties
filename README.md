@@ -34,6 +34,12 @@
 [Announcement blogs](https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?filter=includeBlogs&q=%27Ignite%202022%27&noSynonym=false&collapse_discussion=true&include_blogs=true)
 
 <br/>
+
+## Surveys
+* [Attendee Survey](https://aka.ms/MSIgnite-AfterParties-Attendeesfeedback)
+* [Host Survey](https://aka.ms/MSIgnite-AfterParties-Hostsfeedback)
+
+<br/>
 <br/>
 
 ---
