@@ -1,4 +1,4 @@
-# Microsoft Ignite 2022 - After Party resources
+# Microsoft Build 2023 - After Party resources
 
 ![Microsoft Ignite 2022 banner](./Assets/Microsoft%20Ignite%202022/Ignite_banner.png)
 
