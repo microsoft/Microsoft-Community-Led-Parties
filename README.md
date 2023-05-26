@@ -8,15 +8,13 @@
 
 * Digital Assets
   * [Briefing Deck](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Microsoft%20Build%202023%Community-Led%Parties%-Briefing%Deck.pdf)
-  * [Logos](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Logos)
-  * [Wallpaper](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Wallpaper)
+  * [Logos](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Logos)
+  * [Email headers](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Email%20Headers)
   * [Microsoft Teams backgrounds](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Teams%20Background)
-
-* [Social post templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Social%20Posts%20Templates)
-
-* [PowerPoint templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
-
-* [Promotional single slide (Powerpoint) - Please feel free to customise to your unique Learn Collections AKA Link/QR Code](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Build-Watch-Together-PromoSlide.pptx)
+  * [Social post templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Social%20Posts%20Templates)
+  * [PowerPoint templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
+  * [Digital Swag](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Digital%20Swag)
+  * [Promotional single slide (Powerpoint) - Please feel free to customise to your unique Learn Collections AKA Link/QR Code](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Build-Watch-Together-PromoSlide.pptx)
 
 <br/>
 
