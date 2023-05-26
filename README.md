@@ -35,8 +35,9 @@
 * [Host Survey](https://aka.ms/msbuild-comm-led-parties-hosts-survey)
 
 <br/>
+
 ## Learn Collections 
-[A unique AKA link is in the format of https://aka.ms/msbuild-lc-h<?>, where LC = learn collection and h= host, is assigned to you.]
+A unique AKA link is in the format of https://aka.ms/msbuild-lc-h<?>, where LC = learn collection and h= host, is assigned to you.
 
 Promotion of Learn Collections 
 You can do this via any channel, and any time leading up to July 7. This can be through 		your social channels, blog, during your party, and even YouTube video description (after 	you share your party on-demand)! Feel free to think of any creative means!  
