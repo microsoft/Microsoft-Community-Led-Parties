@@ -21,12 +21,7 @@
 <br/>
 
 ## Book of News
-[Microsoft Ignite 2022 Book of News](https://news.microsoft.com/ignite-2022-book-of-news/)  
-
-<br/>
-
-## Microsoft Tech Community blogs
-[Announcement blogs](https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?filter=includeBlogs&q=%27Ignite%202022%27&noSynonym=false&collapse_discussion=true&include_blogs=true)
+[Microsoft Build 2023 Book of News](https://news.microsoft.com/build-2023-book-of-news/)  
 
 <br/>
  
