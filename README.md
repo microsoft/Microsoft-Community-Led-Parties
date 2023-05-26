@@ -1,6 +1,6 @@
 # Microsoft Build 2023 - Community-Led Parties resources
 
-![Microsoft Build 2022 banner](./Assets/Microsoft%20Ignite%202022/EmailHeaders_2023MSBuild_02_B-Header.png)
+![Microsoft Build 2022 banner](./Assets/Microsoft%20Build%202023/EmailHeaders_2023MSBuild_02_B-Header.png)
 
 
 
