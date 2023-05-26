@@ -16,13 +16,7 @@
 
 * [PowerPoint templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
 
-* [Promotional single slide (Powerpoint) - Please feel free to customise to your unique Learn Collections AKA Link/QR Code](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023)
-
-<br/>
-
-## Session recordings
-
-[Microsoft Ignite 2022 session recordings](https://learn.microsoft.com/events/ignite-2022/)
+* [Promotional single slide (Powerpoint) - Please feel free to customise to your unique Learn Collections AKA Link/QR Code](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Build-Watch-Together-PromoSlide.pptx)
 
 <br/>
 
@@ -35,12 +29,20 @@
 [Announcement blogs](https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?filter=includeBlogs&q=%27Ignite%202022%27&noSynonym=false&collapse_discussion=true&include_blogs=true)
 
 <br/>
-
+ 
 ## Surveys
-* [Attendee Survey](https://aka.ms/MSIgnite-AfterParties-Attendeesfeedback)
-* [Host Survey](https://aka.ms/MSIgnite-AfterParties-Hostsfeedback)
+* [Attendee Survey](https://aka.ms/msbuild-comm-led-parties-survey)
+* [Host Survey](https://aka.ms/msbuild-comm-led-parties-hosts-survey)
 
 <br/>
+## Learn Collections 
+[A unique AKA link is in the format of https://aka.ms/msbuild-lc-h<?>, where LC = learn collection and h= host, is assigned to you.]
+
+Promotion of Learn Collections 
+You can do this via any channel, and any time leading up to July 7. This can be through 		your social channels, blog, during your party, and even YouTube video description (after 	you share your party on-demand)! Feel free to think of any creative means!  
+ 
+As a token of appreciation, the Community-Led Parties Workstream will be rewarding the top 3 sharers with a small appreciation token end July. The top 3 will be rewarded with a 50USD Gift Voucher.  
+
 <br/>
 
 ---
