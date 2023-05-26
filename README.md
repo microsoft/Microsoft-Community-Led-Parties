@@ -14,7 +14,7 @@
 
 * [Social post templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Social%20Posts%20Templates)
 
-* [PowerPoint templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Powerpoint%20Templates)
+* [PowerPoint templates](https://github.com/microsoft/Microsoft-Buils-2023-After-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
 
 * [Promotional video (YouTube)](https://youtu.be/ZOStH9PQkR4)
 
