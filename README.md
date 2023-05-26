@@ -1,12 +1,13 @@
-# Microsoft Build 2023 - After Party resources
+# Microsoft Build 2023 - Community-Led Parties resources
 
-![Microsoft Ignite 2022 banner](./Assets/Microsoft%20Ignite%202022/Ignite_banner.png)
+![Microsoft Build 2022 banner](./Assets/Microsoft%20Ignite%202022/EmailHeaders_2023MSBuild_02_B-Header.png)
 
 
 
 ## Host resources
 
 * Digital Assets
+  * [Briefing Deck](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Microsoft%20Build%202023%Community-Led%Parties%-Briefing%Deck.pdf)
   * [Logos](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Logos)
   * [Wallpaper](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Wallpaper)
   * [Microsoft Teams backgrounds](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Teams%20Background)
