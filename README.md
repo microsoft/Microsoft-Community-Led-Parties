@@ -1,6 +1,6 @@
 # Microsoft Build 2023 - Community-Led Parties resources
 
-![Microsoft Build 2022 banner](./Assets/Microsoft%20Build%202023/EmailHeaders_2023MSBuild_02_B-Header.png)
+![Microsoft Build 2023 banner](./Assets/Microsoft%20Build%202023/EmailHeaders_2023MSBuild_02_B-Header.png)
 
 
 
@@ -12,11 +12,11 @@
   * [Wallpaper](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Wallpaper)
   * [Microsoft Teams backgrounds](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Teams%20Background)
 
-* [Social post templates](https://github.com/microsoft/Microsoft-Ignite-2022-After-Parties/tree/main/Assets/Microsoft%20Ignite%202022/Social%20Posts%20Templates)
+* [Social post templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Social%20Posts%20Templates)
 
-* [PowerPoint templates](https://github.com/microsoft/Microsoft-Buils-2023-After-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
+* [PowerPoint templates](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Powerpoint%20Templates)
 
-* [Promotional video (YouTube)](https://youtu.be/ZOStH9PQkR4)
+* [Promotional single slide (Powerpoint) - Please feel free to customise to your unique Learn Collections AKA Link/QR Code]([https://](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023)
 
 <br/>
 
