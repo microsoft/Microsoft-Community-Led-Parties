@@ -4,7 +4,7 @@
 
 ## Quick start
 
-* How to host a Communtiy-Led Party
+* [How to host a Communtiy-Led Party](https://github.com/microsoft/Microsoft-Community-Led-Parties/tree/main/Assets/Microsoft%20Build%202023/Community-led_Party_Guide_Build_2023.pdf)
 
 ## Host resources
 
