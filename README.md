@@ -2,7 +2,9 @@
 
 ![Microsoft Build 2023 banner](./Assets/Microsoft%20Build%202023/EmailHeaders_2023MSBuild_02_B-Header.png)
 
+## Quick start
 
+* How to host a Communtiy-Led Party
 
 ## Host resources
 
